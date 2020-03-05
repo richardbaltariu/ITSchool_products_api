@@ -1,47 +1,49 @@
-[
-  {
-    "id": 1,
-    "sku": "laptop-1",
-    "name": "Notebook Acer Aspire 5",
-    "category": "NOTEBOOK",
-    "price": 2230,
-    "currency": "RON",
-    "photo": "https://s12emagst.akamaized.net/products/20103/20102848/images/res_b6817ff19596d9f3d86da161fee95ee3_full.jpg"
-  },
-  {
-    "id": 2,
-    "sku": "laptop-2",
-    "name": "Ultrabook Apple Macbook Pro 16\"",
-    "category": "ULTRABOOK",
-    "price": 10000,
-    "currency": "RON",
-    "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16touch-space-select-201911?wid=1808&hei=1686&fmt=jpeg&qlt=80&.v=1572825197207"
-  },
-  {
-    "id": 3,
-    "sku": "laptop-3",
-    "name": "Notebook Asus Zenbook UX450",
-    "category": "NOTEBOOK",
-    "price": 3300,
-    "currency": "RON",
-    "photo": "https://www.asus.com/media/global/products/CQ0prx7o0mZ0dcFr/P_setting_fff_1_90_end_600.png"
-  },
-  {
-    "id": 4,
-    "sku": "laptop-4",
-    "name": "Ultrabook Acer Swift 3",
-    "category": "ULTRABOOK",
-    "price": 5000,
-    "currency": "RON",
-    "photo": "https://media.nbb-cdn.de/images/products/430000/430194/Acer_Swift_3_SF314-55_01.jpg?size=2800"
-  },
-  {
-    "id": 5,
-    "sku": "laptop-5",
-    "name": "Ultrabook Macbook Air 13\"",
-    "category": "ULTRABOOK",
-    "price": 3599.99,
-    "currency": "RON",
-    "photo": "https://s12emagst.akamaized.net/products/24264/24263484/images/res_62f89f06218debd1aac939331b87a4d2_full.jpg"
-  }
-]
+{
+  "laptops": [
+    {
+      "id": 1,
+      "sku": "laptop-1",
+      "name": "Notebook Acer Aspire 5",
+      "category": "NOTEBOOK",
+      "price": 2230,
+      "currency": "RON",
+      "photo": "https://s12emagst.akamaized.net/products/20103/20102848/images/res_b6817ff19596d9f3d86da161fee95ee3_full.jpg"
+    },
+    {
+      "id": 2,
+      "sku": "laptop-2",
+      "name": "Ultrabook Apple Macbook Pro 16\"",
+      "category": "ULTRABOOK",
+      "price": 10000,
+      "currency": "RON",
+      "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16touch-space-select-201911?wid=1808&hei=1686&fmt=jpeg&qlt=80&.v=1572825197207"
+    },
+    {
+      "id": 3,
+      "sku": "laptop-3",
+      "name": "Notebook Asus Zenbook UX450",
+      "category": "NOTEBOOK",
+      "price": 3300,
+      "currency": "RON",
+      "photo": "https://www.asus.com/media/global/products/CQ0prx7o0mZ0dcFr/P_setting_fff_1_90_end_600.png"
+    },
+    {
+      "id": 4,
+      "sku": "laptop-4",
+      "name": "Ultrabook Acer Swift 3",
+      "category": "ULTRABOOK",
+      "price": 5000,
+      "currency": "RON",
+      "photo": "https://media.nbb-cdn.de/images/products/430000/430194/Acer_Swift_3_SF314-55_01.jpg?size=2800"
+    },
+    {
+      "id": 5,
+      "sku": "laptop-5",
+      "name": "Ultrabook Macbook Air 13\"",
+      "category": "ULTRABOOK",
+      "price": 3599.99,
+      "currency": "RON",
+      "photo": "https://s12emagst.akamaized.net/products/24264/24263484/images/res_62f89f06218debd1aac939331b87a4d2_full.jpg"
+    }
+  ]
+}
